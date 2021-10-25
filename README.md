@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikia
+- 👋 Hi, I’m Nikita
 - 💻 React Native Developer
 - 👨‍💻 I have about 4 years of experinece in JavaScript, React Native, React, Node and related technologies. Result-oriented hard working with strong problem-solving skills focused an achieving project objectives with speed and accuracy.
 
