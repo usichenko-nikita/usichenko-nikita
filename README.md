@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikita
 - 💻 React Native Developer
-- 👨‍💻 I have about 5 years of experinece in JavaScript, React Native, React, Node and related technologies. Result-oriented hard working with strong problem-solving skills focused an achieving project objectives with speed and accuracy.
+- 👨‍💻 I have about 7 years of experinece in JavaScript, React Native, React, Node and related technologies. Result-oriented hard working with strong problem-solving skills focused an achieving project objectives with speed and accuracy.
 
 ### Github Statistics:
 <img src="https://github-readme-stats.vercel.app/api?username=usichenko-nikita&&show_icons=true&count_private=true&theme=algolia" />
